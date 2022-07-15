@@ -1,6 +1,6 @@
 {
-  "name": "CloneDeep",
-  "version": "1.0.0",
+  "name": "@liujiaweb/CloneDeep",
+  "version": "1.0.1",
   "description": "深拷贝",
   "main": "index.js",
   "repository": "https://github.com/LiuJiaWeb/CloneDeep.git",
